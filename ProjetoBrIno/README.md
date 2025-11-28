@@ -18,7 +18,12 @@ Durante o desenvolvimento, a equipe trabalhou em melhorias estéticas, mecânica
 
 ## 📂 Estrutura do MVP
 
-
+### 1. Código-fonte
+O código completo está disponível no repositório GitHub:  
+👉 [https://github.com/VictorSenni/Projeto-Br.ino/tree/main/ProjetoBrIno]
+### 2. Versão online
+O MVP pode ser acessado diretamente pelo navegador:  
+👉 [https://brinonewriseup.netlify.app/]
 
 ### 3. Passo a passo para execução local
 
