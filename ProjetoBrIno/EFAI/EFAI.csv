@@ -1,0 +1,238 @@
+,Aula,Categoria,Prof/Aluno,Nome,Link Site Br.ino,Link Direcionado,Status,Obs
+0,0,Link,Aluno,EdBlocks,EFAI/blocks,https://www.edblocksapp.com/v3/,Feito,
+0,0,Link,Aluno,EdScratch,brino.cc/EFAI/EdScratch.html,https://www.edscratchapp.com/v3/,Feito,
+0,0,Link,Aluno,EdPy,brino.cc/EFAI/edpy,https://www.edpyapp.com/v3/#,Feito,
+0,0,Link,Aluno,Tinkercad,brino.cc/EFAI/tinkercad,https://www.tinkercad.com/,Feito,
+0,0,Link,Professor,Feedback dos professores para as aulas,https://brino.cc/feedback,https://docs.google.com/forms/d/e/1FAIpQLSdDEWpDxEbJhW6X7P8r1629qyNGa-lHOp1Qw6h1y3OGrR7cMw/viewform,Feito,
+1,1,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_1/aula,https://youtu.be/tLfghYf9RHs,Feito,
+2,1,Animação Brastoy,Aluno,Montagem da moto,https://brino.cc/EFAI/2_1/moto,https://docs.google.com/presentation/d/12DbFkjXV5tb1fDi8NK-cTqNpQWK4XvZDvjpwky72ge4/edit?usp=sharing,Feito,Verificar slide (Colocar a Beta no slide de encerramento?)
+2,1,Plataforma,Aluno,Questões para o jogo da viatura da matemática,https://brino.cc/EFAI/2_1/jogo,https://view.genially.com/67894ae878192a8326ca6880/interactive-content-corrida-das-viaturas-da-matematica,Feito,
+2,1,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_1/aula,https://youtu.be/mnEUc3CUUEY,Feito,
+3,1,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_1/aula,https://youtu.be/Mtzv9ooJ7y8,Feito,
+3,1,Video Externo/Interno,Professor,Video de o que é robótica,https://brino.cc/EFAI/3_1/robotica,https://youtu.be/31U0bgFFFbE,Feito,
+4,1,Video interno,Professor,Resumo da aula 1,https://brino.cc/EFAI/4_1/aula,https://youtu.be/3UBusSWyk38,Feito,
+4,1,Video Externo/Interno,Professor,Video de o que é robótica,https://brino.cc/EFAI/4_1/robotica,https://youtu.be/31U0bgFFFbE,Feito,
+4,1,Link,Professor,Musicas pop,https://brino.cc/EFAI/4_1/mus,https://www.youtube.com/playlist?list=PLMC9KNkIncKvYin_USF1qoJQnIyMAfRxl,Feito,
+5,1,Video Externo/Interno,Professor,Video de o que é robótica,https://brino.cc/EFAI/5_1/oquee,https://youtu.be/31U0bgFFFbE,Feito,
+5,1,Video interno,Professor,Resumo da aula 1,https://brino.cc/EFAI/5_1/aula,https://youtu.be/2BuKIp-a_GU,Feito,
+1,2,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_2/aula,,Fazer,Gravar
+1,2,Vídeo,Professor,Video de o que é robótica,https://brino.cc/EFAI/1_2/oquee ,https://youtu.be/12-cB6yTUKc?feature=shared,Feito,
+2,2,Link,Aluno,Jogo Blockly quebra cabeça,https://brino.cc/EFAI/2_2/quebra,https://blockly.games/puzzle?lang=pt-br,Feito,
+2,2,Animação Brastoy,Aluno,Trator,https://brino.cc/EFAI/2_2/trator,https://docs.google.com/presentation/d/1n2P_K0DEE9dQ3J-4NW-Ks36dEuDG747PXLDeHFqqOSs/edit?usp=sharing,Feito,Verificar slide (Imagem com fundo branco e sem slide de encerramento)
+2,2,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_2/aula,https://youtu.be/o3Z4S4lR6HI,Feito,
+2,2,Link,Professor,parte do professor,https://brino.cc/EFAI/2_2/ia,,Feito,Lembrar de explicar como usar as plataformas. Todas elas precisam de login
+3,2,Plataforma,Aluno,Blockly Games Labirinto Egito,https://brino.cc/EFAI/3_2/blockly,https://blockly.games/maze?lang=pt-br,Feito,
+3,2,Link,Professor,Gabarito Blockly Games - Maze/Labirinto,https://brino.cc/EFAI/3_2/gab,,Fazer,
+3,2,Projeto com Edison,Aluno,Montar trator,https://brino.cc/EFAI/3_2/trator,https://docs.google.com/presentation/d/13opfjtkIC2lIUVb7OV6Dna4ZbLYaNJ1OpOvRNthtiGo/edit?usp=sharing,Feito,
+3,2,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_2/aula,https://youtu.be/VoBt-stNQVI,Feito,
+3,2,Video Externo/Interno,Professor,Mais sobre as pirmides do egito,https://brino.cc/EFAI/3_2/piramides,https://youtu.be/meXL7aZZe1o?feature=shared,Feito,
+4,2,Plataforma,Aluno,Festa da Dança,https://brino.cc/EFAI/4_2/danca,https://studio.code.org/s/dance-2019/lessons/1/levels/1?lang=pt-PT,Feito,
+4,2,Video interno,Professor,Resumo da aula 2,https://brino.cc/EFAI/4_2/aula,https://youtu.be/s7rOHtTXjQI,Feito,
+4,2,Video Externo/Interno,Professor,Mais sobre programacao,https://brino.cc/EFAI/4_2/programacao,https://youtu.be/KOsDpTdbKbc?feature=shared,Feito,
+5,2,Plataforma,Aluno,Blockly Games Labirinto,https://brino.cc/EFAI/5_2/labirinto.html,https://blockly.games/maze?lang=pt-br&level=1&skin=1,Feito,
+5,2,Projeto com Edison,Professor,Código do morse com Edison,https://brino.cc/EFAI/5_2/morse,,Feito,
+5,2,Video interno,Professor,Resumo da aula 2,https://brino.cc/EFAI/5_2/aula,https://youtu.be/0gySVjj3z-A,Feito,
+5,2,Plataforma,Professor,Jogo hora do código star wars,https://brino.cc/EFAI/5_2/starwars,https://studio.code.org/s/starwarsblocks/lessons/1/levels/1?lang=pt-BR,Feito,
+5,2,Link,Professor,Observação anexo I (referência),https://brino.cc/EFAI/5_2/Encontrar,https://segredosdomundo.r7.com/esse-e-o-jeito-mais-eficiente-de-escapar-de-um-labirinto/#google_vignette,Feito,
+5,2,Link,Professor,Referências 2,https://brino.cc/EFAI/5_2/blockly,https://blockly.games/,Feito,
+1,3,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_3/aula,,Fazer,Gravar
+2,3,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_3/aula,,Fazer,Gravar
+3,3,Animação Brastoy,Aluno,Montagem do helicoptero,https://brino.cc/EFAI/3_3/heli,https://docs.google.com/presentation/d/1DVXSdJYrWTZ6XSa8NCGHKMKf5aV08IjgtU8horooT9g/edit?usp=sharing,Feito,
+3,3,Link,Aluno,Taj Mahal visto de cima,https://brino.cc/EFAI/3_3/cima,"https://www.youtube.com/watch?v=jjvYbFvkM6M
+ou https://www.youtube.com/shorts/KTtjwiFpFi8 ",Feito,
+3,3,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_3/aula,,Fazer,Gravar
+3,3,Video interno,Professor,Conhecendo o Taj Mahal,https://brino.cc/EFAI/3_3/taj,https://youtu.be/mWmTjRpdRZU?feature=shared,Feito,
+3,3,Link,Professor,Taj Mahal visto de cima pelo drone,https://brino.cc/EFAI/3_3/drone,https://www.youtube.com/watch?v=0NSq1-Ne26Y,Feito,
+4,3,Vídeo,Aluno,Mais sobre modelagem 3D no Tinkercad,https://brino.cc/EFAI/4_3/tinkercad3d,https://youtu.be/Vj_mJui6V0c,Feito,
+4,3,Link,Aluno,Exemplo de barco da comunidade,https://brino.cc/EFAI/4_3/BarcoComunidade,https://www.tinkercad.com/things/0xJ0a1b0Wik-pirate-ship,Feito,
+4,3,Vídeo,Aluno,Conhecendo o Tinkercad,https://brino.cc/EFAI/4_3/TesteTinker,https://youtu.be/ETvJ4AhCcB8,Feito,
+4,3,Link,Aluno,Padlet barcos,https://brino.cc/EFAI/4_3/padlet,https://padlet.com/supbrino/quadro-de-exibi-o-das-anima-es-criadas-pelos-alunos-ikog66yuxuibas38,Feito,
+4,3,Video interno,Professor,Resumo da aula 3,https://brino.cc/EFAI/4_3/aula,,Fazer,Gravar
+4,3,Link,Professor,Como fazer um barco de papel,https://brino.cc/EFAI/4_3/barco   ,https://pt.wikihow.com/Fazer-um-Barco-de-Papel,Feito,
+3,3,Material para ser impresso,Professor,Slides/Manual Desvendando a Eletrônica,https://brino.cc/EFAI/3_3/leilao,,Feito,"Não usado no livro, manual utilizado também em 1_4, 5_3, 3_4, 5_10, "
+5,3,Link,Aluno,Mais informações sobre o Disco Dourado,https://brino.cc/EFAI/5_3/disco,https://www.youtube.com/watch?v=aMAiTkikV3k,Feito,
+5,3,Link,Aluno,Jogo de conexão da sonda,https://brino.cc/EFAI/5_3/sonda,"Links:
+1. https://apps.makeymakey.com/play/#is%20it%20conductive 
+2. https://apps.makeymakey.com/v2/#match%20the%20beat 
+3. https://makeymakey.com/pages/plug-and-play-makey-makey-apps",Feito,
+5,3,Vídeo,Professor,Saiba mais sobre o makey makey,https://brino.cc/EFAI/5_3/makey,https://www.youtube.com/watch?v=pjsmn5aHUxc,Feito,
+5,3,Link,Professor,Quais materiais conduzem energia e pq,https://brino.cc/EFAI/5_3/conducao,https://www.youtube.com/watch?v=4bGW7FK1-NE,Feito,
+5,3,Video interno,Professor,Resumo da aula 3,https://brino.cc/EFAI/5_3/aula,https://youtu.be/8_taPCpScmo,Feito,
+1,4,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_4/aula,,Fazer,Gravar
+1,4,Video interno,Professor,Dinâmica dos Robisons,https://brino.cc/EFAI/1_4/rob,,Fazer,Gravar
+2,4,Animação Brastoy,Aluno,Manual da Matraca,https://brino.cc/EFAI/2_4/matraca,https://docs.google.com/presentation/d/1yv7K-k17tAGGAlhO3PXXpMkiL8wOGJZLzWvgVJSn73U/edit?usp=sharing,Feito,
+2,4,Edison,Aluno,Manual de montagem da máquina de fazer gol,https://brino.cc/EFAI/2_4/mont,https://docs.google.com/presentation/d/14lPdh0v8OADL9kz-j59RWsJY0rbNRaXEwzx9L9UOJfs/edit?usp=sharing,Feito,
+2,4,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_4/aula,,Fazer,Gravar
+2,4,Link,Professor,Site oficial do Centro de Treinamento Paralímpico Brasileiro,https://brino.cc/EFAI/2_4/centro,https://cpb.org.br/ct-paralimpico/centro-de-treinamento/,Feito,
+3,4,Link,Aluno,Jogo de fazer vaso,https://brino.cc/EFAI/3_4/vaso,https://g.co/arts/bgQECWtBG9FDvmu36,Feito,
+3,4,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_4/aula,,Fazer,Gravar
+4,4,Video interno,Aluno,Tutorial de uso da roda cifrada,https://brino.cc/EFAI/4_4/cifra,https://youtu.be/TUxR60M3COE,Feito,
+4,4,Video interno,Professor,Resumo da aula 4,https://brino.cc/EFAI/4_4/aula,,Fazer,Gravar
+4,4,Vídeo,Professor,Mais sobre cifras,https://brino.cc/EFAI/4_4/cifras,https://youtu.be/aTI99jztZds?feature=shared,Feito,
+4,4,Link,Professor,Cifra e decifra online,https://brino.cc/EFAI/4_4/codifica,https://site112.com/cifra-de-cesar-codificar-descodificar,Feito,
+5,4,Link,Aluno,Imagem branca,https://brino.cc/EFAI/5_4/branco,https://brino.cc/EFAI/5_4/branco.jpg,Feito,
+5,4,Vídeo,Aluno,Origami,https://brino.cc/EFAI/5_4/origami ,https://www.youtube.com/watch?v=7wnu5rlc40E,Feito,"Está em inglês, mas sem falas. Seguimos assim?"
+5,4,Video interno,Professor,Resumo da aula 4,https://brino.cc/EFAI/5_4/aula,,Fazer,Gravar
+5,4,Vídeo,Professor,Tutorial do app Sky View,https://brino.cc/EFAI/5_4/sky ,https://youtu.be/W-iEXlGVJYI?feature=shared,Feito,
+1,5,Animação Brastoy,Aluno,Montagem cinematógrafo,https://brino.cc/EFAI/1_5/cine,https://docs.google.com/presentation/d/1gdK5C22gC63I46bYY9_dIQlVEJwfkfQHM3aCqvodypY/edit?usp=sharing,Feito,
+1,5,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_5/aula,,Fazer,Gravar
+2,5,Animação Brastoy,Aluno,Manual de montagem do guindaste,https://brino.cc/EFAI/2_5/mont,https://docs.google.com/presentation/d/1544y_uU9eWG5-7J_fDvLQnCsGlSWr9-luYXsn8Tdc-I/edit?usp=sharing,Feito,
+2,5,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_5/aula,,Fazer,Gravar
+3,5,Animação Brastoy,Aluno,Montar biga,https://brino.cc/EFAI/3_5/biga,https://docs.google.com/presentation/d/1K8gEnJFgjRSYAVfMw5CYGbOE6NVO9xH9ychhbQaGFOU/edit?usp=sharing,Feito,
+3,5,Animação Brastoy,Aluno,Montar elevador,https://brino.cc/EFAI/3_5/elevador,https://docs.google.com/presentation/d/1kZDz3w-DV5Ud-vYyq-mZ0WRHk_T2zECZrEdJroFs9mw/edit?usp=sharing,Feito,
+3,5,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_5/aula,,Fazer,Gravar
+4,5,Edison,Aluno,Montagem corvo e espantalho,https://brino.cc/EFAI/4_5/mont,https://docs.google.com/presentation/d/10x6I8e-oUdlOvRdgMewFjDJIGyBQuenNg5yO0z99jsw/edit?usp=sharing,Feito,
+4,5,Video interno,Professor,Resumo da aula 5,https://brino.cc/EFAI/4_5/aula,,Fazer,Gravar
+5,5,Animação Brastoy,Aluno,Montagem carrinho de mão,https://brino.cc/EFAI/5_5/carrinho,https://docs.google.com/presentation/d/1JhCBC4M2H--QwoB9tPqKl17NOu_xZtRt9BPh5o7t2T0/edit?usp=sharing,Feito,
+5,5,Link,Aluno,EdBlock,https://brino.cc/EFAI/EdBlock,https://www.edblocksapp.com/v3/,Feito,
+5,5,Link,Aluno,Blockly Games Labirinto,https://brino.cc/EFAI/5_5/labirinto,https://blockly.games/maze?lang=pt-br&level=1&skin=0,Feito,
+5,5,Video interno,Professor,Resumo da aula 5,https://brino.cc/EFAI/5_5/aula,,Fazer,Gravar
+5,5,Vídeo,Professor,Tutorial EdBlock,https://brino.cc/EFAI/5_5/tutorial,https://youtu.be/Dm1_GBU6Jd4,Feito,
+5,5,Link,Selecionar,Dicionário EdBlock,https://brino.cc/EFAI/dicionario,https://meetedison.com/content/EdBlocks-block-guide.pdf,Feito,Em inglês
+1,6,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_6/aula,,Fazer,Gravar
+2,6,Vídeo,Aluno,Vídeo ou tutorial de montagem da borboleta automato,https://brino.cc/EFAI/2_6/borboleta,https://youtu.be/oxpnvJP9iIY,Feito,
+2,6,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_6/aula,,Fazer,Gravar
+2,6,Video interno,Professor,Vídeo sobre a plataforma Octostudio ,https://brino.cc/EFAI/2_6/video,,Fazer,Gravar
+3,6,Link,Aluno,Animated Drawing,https://brino.cc/EFAI/3_6/ani,https://sketch.metademolab.com/canvas,Feito,
+3,6,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_6/aula,,Fazer,Gravar
+4,6,Plataforma,Aluno,Plataforma Turtle,https://brino.cc/EFAI/4_6/tartaruga,https://blockly.games/turtle?lang=pt-br,Feito,
+4,6,Video interno,Professor,Resumo da aula 6,https://brino.cc/EFAI/4_6/aula,,Fazer,Gravar
+5,6,Link,Aluno,Máscaras Japonesas,https://brino.cc/EFAI/5_6/mascaras,https://www.youtube.com/watch?v=8c6eVTBvXSk,Feito,
+5,6,Video interno,Professor,Resumo da aula 6,https://brino.cc/EFAI/5_6/aula,,Fazer,Gravar
+5,6,Vídeo,Aluno,Sumô,https://brino.cc/EFAI/5_6/sumo,https://youtube.com/shorts/od5jfWScPsg?feature=shared,Feito,
+1,7,Animação Brastoy,Aluno,Montagem da vara de pesca,https://brino.cc/EFAI/1_7/mont,https://docs.google.com/presentation/d/1Q72zXDcqkEFiqeN33S25JclcqeupShP0y4y2ySA4x9o/edit?usp=sharing,Feito,
+1,7,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_7/aula,,Fazer,Gravar
+2,7,Link,Aluno,Teste de condutividade Makey Makey,https://brino.cc/EFAI/2_7/teste,https://apps.makeymakey.com/play/#is%20it%20conductive,Feito,
+2,7,Animação Brastoy,Aluno,Instruções operando (aluno),https://brino.cc/EFAI/2_7/cirurgia,https://docs.google.com/presentation/d/1SoDrJMbAiEVkG69y4kWaUyOqRIKQCPNbc2JsspZj65c/edit?usp=sharing,Feito,
+2,7,Video interno,Professor,Instruções operando (professor),https://brino.cc/EFAI/2_7/operando,,Fazer,Gravar
+2,7,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_7/aula,,Fazer,Gravar
+3,7,Edison,Aluno,Robo tambor,https://brino.cc/EFAI/3_7/mont,https://docs.google.com/presentation/d/1WQHkAICmsyLirIOYIK5NcAn4McW9A-A8GC8Kv84uMtc/edit?usp=sharing,Feito,
+3,7,Link,Aluno,Notas compartilhadas,https://brino.cc/EFAI/3_7/promp,https://rustpad.io/#G5qWWf,Feito,Senha: brino
+3,7,Link,Aluno,Notas compartilhadas,https://brino.cc/EFAI/3_7/prompn,https://rustpad.io/#nJsLmG,Feito,"Feito para professoras com aula coincidente
+Senha: brino"
+3,7,Link,Aluno,Notas compartilhadas,https://brino.cc/EFAI/3_7/promps,https://rustpad.io/#hGlaVx,Feito,"Feito para professoras com aula coincidente
+Senha: brino"
+3,7,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_7/aula,,Fazer,Gravar
+3,7,Vídeo,Professor,Entendendo IA generativa,https://brino.cc/EFAI/3_7/ia,https://youtu.be/TPNIFptD50Y?feature=shared,Feito,
+3,7,Link,Professor,IA generativa para imagens,https://brino.cc/EFAI/3_7/gerar,https://firefly.adobe.com/inspire/images?ff_channel=adobe_com&ff_campaign=feature_page&ff_source=firefly_seo,Feito,Corrigir para mais opções de plataforma (2_2/ia)
+4,7,Animação Brastoy,Aluno,Montagem da ponte levadiça,https://brino.cc/EFAI/4_7/mont,https://docs.google.com/presentation/d/1q3KK5nVya9-EvzQK4SCDLrWbFSqeBUUn9vSol4Y3Iz0/edit?usp=sharing,Feito,
+4,7,Video interno,Professor,Resumo da aula 7,https://brino.cc/EFAI/4_7/aula,,Fazer,Gravar
+5,7,Link,Aluno,Jogo limpando o oceano,https://brino.cc/EFAI/5_7/oceano,https://studio.code.org/s/oceans/lessons/1/levels/2,Fazer,
+5,7,Edison,Aluno,Montagem lixeira,https://brino.cc/EFAI/5_7/montagem ,https://docs.google.com/presentation/d/1YZg5frgUUDPt-x3S4tP7-R376pDQtpLtViHSWUVopzE/edit?usp=sharing,Feito,
+5,7,Video interno,Professor,Resumo da aula 7,https://brino.cc/EFAI/5_7/aula,,Fazer,Gravar
+1,8,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_8/aula,,Fazer,Gravar
+1,8,Animação Brastoy,Aluno,Montagem do relogio,https://brino.cc/EFAI/1_5/relogio ,https://docs.google.com/presentation/d/1BdHMYTZaA4y5e-YB-RAs7UGDc5-0kzjvY1KyydhzqX4/edit?usp=sharing,Feito,APAGAR?
+1,8,Video interno,Aluno,Craft da flor,https://brino.cc/EFAI/1_8/flor,,Fazer,
+2,8,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_8/aula,,Fazer,
+2,8,Animação Brastoy,Aluno,Máquina maluca ,https://brino.cc/EFAI/2_8/maquina,,Fazer,
+2,8,Animação Brastoy,Aluno,Lançador de avião de papel,https://brino.cc/EFAI/2_8/lancador,https://docs.google.com/presentation/d/118q0XpoiTMKombOTBbfb6V8f009gMPu8QsCFTS22BlQ/edit?usp=sharing,Feito,
+3,8,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_8/aula,,Fazer,
+3,8,Animação Brastoy,Aluno,Construção do guindaste com Animaçõa Brastoy e braço inclinado,https://brino.cc/EFAI/3_8/guindaste,https://docs.google.com/presentation/d/1ibZj6DqDTNZIzRsl7niSgXg8UcCzwaOtRRknxiOTNx0/edit?usp=sharing,Feito,
+3,8,Video interno,Aluno,Manual do bondinho recortável,https://brino.cc/EFAI/3_8/bondinho,,Fazer,
+4,8,Video interno,Professor,Resumo da aula 8,https://brino.cc/EFAI/4_8/aula,,Fazer,Gravar
+4,8,Projeto com Edison,Aluno,Montagem do EdClaw,https://brino.cc/EFAI/4_8/garra,https://docs.google.com/presentation/d/1vH4poIHD3F7hem2VO1spbDnqT0xdf8Y3V7pP4IU5pks/edit?usp=sharing,Fazer,
+5,8,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/5_8/aula,,Fazer,Gravar
+1,9,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_9/aula,,Fazer,Gravar
+1,9,Video Externo/Interno,Aluno,Montagem da lagarta maker,https://brino.cc/EFAI/1_9/lag,,Fazer,Gravar
+1,9,Material para ser impresso,Professor,Quiver da Borbolete,https://brino.cc/EFAI/1_9/borboleta,,Fazer,
+2,9,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_9/aula,,Fazer,
+2,9,Link,Aluno,Piano Makey Makey,https://brino.cc/EFAI/2_9/piano,https://apps.makeymakey.com/v2/?srsltid=AfmBOoo5p1iZLW8xaPGXbpoe0ceZSj1b1vTNKJP0c47JJF7Wku3b6AaB#piano,,
+3,9,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_9/aula,,Fazer,
+4,9,Video interno,Professor,Resumo da aula 9,https://brino.cc/EFAI/4_9/aula,,Fazer,
+4,9,Projeto com Edison,Aluno,Montagem do Edison Baterista e do Edison Remador,https://brino.cc/EFAI/4_9/rema,,Fazer,
+4,9,Link,Professor,Código do Edison pianista,https://brino.cc/EFAI/4_9/piano,https://github.com/ales-eri/edison-robot-ideas/blob/master/episode04-piano/piano.py,Feito,
+5,9,Edison,Aluno,Montagem Ed Esteiras,https://brino.cc/EFAI/5_9/esteira,,Fazer,Animar
+5,9,Edison,Aluno,Montagem Ed Escavadeira,https://brino.cc/EFAI/5_9/esca,https://docs.google.com/presentation/d/1fuzo-SNOUoGCxxEGrZPZvHEYb5Cof8SW8C97Gjgvua0/edit?usp=sharing,Fazer,Animar
+5,9,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/5_9/aula ,,Fazer,Gravar
+1,10,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_10/aula,,Fazer,Gravar
+1,10,Animação Brastoy,Aluno,Montagem da ponte  ,https://brino.cc/EFAI/1_10/ponte,,Fazer,
+1,10,Animação Brastoy,Aluno,Montagem da cancela,https://brino.cc/EFAI/1_10/can,,Fazer,
+2,10,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_10/aula,,Fazer,
+2,10,Link,Professor,Caminhão com Brastoy,https://brino.cc/EFAI/2_10/caminhao,https://docs.google.com/presentation/d/1V8bLSmMIVW5UqHxgv_h7YRyGYu3jjJFelGdfeK_q0yk/edit?usp=sharing,Feito,
+2,10,Projeto com Edison,Aluno,Montagem do Edison Faixa de concientização ,https://brino.cc/EFAI/2_10/faixa ,,Fazer,
+3,10,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_10/aula,,Fazer,
+4,10,Video interno,Professor,Resumo da aula 10,https://brino.cc/EFAI/4_10/aula,,Fazer,
+4,10,Link,Professor,Tradutor de braille,https://brino.cc/EFAI/4_10/braille,https://www.tradutorbraille.com.br/,Feito,
+5,10,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/5_10/aula ,,Fazer,Gravar
+5,10,Vídeo,Professor,saber mais sobre a  sonda Curiosity,https://brino.cc/EFAI/5_10/sonda,https://www.youtube.com/watch?v=b9rr0H61iZI,Feito,
+1,11,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_11/aula,,Fazer,Gravar
+1,11,Animação Brastoy,Aluno,Montagem robô das emoções,https://brino.cc/EFAI/1_11/robo,,Fazer,
+1,11,Link,Aluno,Animated Drawing,https://brino.cc/EFAI/1_11/ani,https://sketch.metademolab.com/canvas,Fazer,
+2,11,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_11/aula,,Fazer,
+2,11,Link,Aluno,Jogo do Linx no W3School,https://brino.cc/EFAI/2_11/jogo,https://www.w3schools.com/codegame/,Fazer,
+2,11,Link,Professor,Gabarito do Jogo do Linx no W3School,https://brino.cc/EFAI/2_11/gab,,Fazer,
+2,11,Link,Aluno,Arquivo base do jogo do resgate no incendio ,https://brino.cc/EFAI/2_11/octo,,Fazer,
+3,11,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_11/aula,,Fazer,
+3,11,Plataforma,Aluno,Jogo no octoStudio de correr na muralha,https://brino.cc/EFAI/3_11/jogo,,Fazer,
+4,11,Video interno,Professor,Resumo da aula 11,https://brino.cc/EFAI/4_11/aula,,Fazer,
+4,11,Edison,Aluno,Montagem do EdTank - Esteiras,https://brino.cc/EFAI/4_11/tanque,,Fazer,
+4,11,Edison,Aluno,Montagem do EdTank - Lançador de cabos,https://brino.cc/EFAI/4_11/lanca,,Fazer,
+5,11,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/5_11/aula ,,Fazer,Gravar
+5,11,Link,Aluno,Blockly Games - Turtle/Tartaruga,https://brino.cc/EFAI/5_11/tarta,https://blockly.games/turtle?lang=pt-br,Feito,
+5,11,Link,Professor,Gabarito Blockly Games - Turtle/Tartaruga,https://brino.cc/EFAI/5_11/gab,https://brino.cc/EFAI/5_11/Gabarito%20blockly%20tartaruga.pdf,Feito,Melhorar PDF (Preliminar online)
+1,12,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_12/aula,,Fazer,Gravar
+1,12,Video Externo/Interno,Aluno,Manual para montar o personagem quadrado que dança,https://brino.cc/EFAI/1_12/per,,Fazer,
+1,12,Animação Brastoy,Aluno,Manual da roda gigante,https://brino.cc/EFAI/1_12/roda,,Fazer,
+2,12,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_12/aula,,Fazer,
+2,12,Link,Aluno,Interland,https://brino.cc/EFAI/2_12/Interland ,https://beinternetawesome.withgoogle.com/pt-br_br/interland/,Fazer,
+2,12,Link,Aluno,Plataforma Makey Makey de desenho,https://brino.cc/EFAI/2_12/chave,https://apps.makeymakey.com/play/#make-a-sketch,Fazer,
+3,12,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_12/aula,,Fazer,
+3,12,Link,Aluno,Jogo sobre cibersegurança,https://brino.cc/EFAI/3_12/jogo,https://view.genially.com/67d1a0e2438a16e7f98b4559/interactive-content-ciberseguranca,Fazer,
+3,12,Animação Brastoy,Aluno,Montagem do rolo compressor,https://brino.cc/EFAI/3_12/rolo,https://docs.google.com/presentation/d/1V7G2IKGjD5KNMHe1dvbBeP5fbMpdAw1CNMZ1HiZIXso/edit?usp=sharing,Fazer,
+4,12,Video interno,Professor,Resumo da aula 12,https://brino.cc/EFAI/4_12/aula,,Fazer,
+4,12,Projeto com Edison,Aluno,Montagem do Edison Rapel,https://brino.cc/EFAI/4_12/rapel,,Fazer,
+4,12,Link,Aluno,Plataforma Compute It,https://brino.cc/EFAI/4_12/comp,https://compute-it.toxicode.fr/,Feito,
+5,12,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/5_12/aula ,,Fazer,Gravar
+5,12,Link,Professor,Material complementar sobre cyberbullying,https://brino.cc/EFAI/5_12/cyber ,,Fazer,
+5,12,Link,Aluno,Jogo Genially  - Internet Segura,https://brino.cc/EFAI/5_12/segura,https://view.genially.com/671925473f0911dcb20f7e8a/interactive-content-te,Feito,Montar perguntas do jogo
+5,12,Link,Aluno,Interland,https://brino.cc/EFAI/5_12/Interland,https://beinternetawesome.withgoogle.com/pt-br_br/interland/,Feito,
+5,12,Link,Aluno,Interland,https://brino.cc/EFAI/5_12/interland,https://beinternetawesome.withgoogle.com/pt-br_br/interland/,Feito,
+1,13,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_13/aula,,Fazer,Gravar
+1,13,Animação Brastoy,Aluno,Manual da máquina de debulhar milho,https://brino.cc/EFAI/1_13/milho,,Fazer,
+2,13,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_13/aula,,Fazer,
+3,13,Animação Brastoy,Aluno,Montagem do relogio,https://brino.cc/EFAI/3_13/relogio ,https://docs.google.com/presentation/d/1BdHMYTZaA4y5e-YB-RAs7UGDc5-0kzjvY1KyydhzqX4/edit?usp=sharing,Fazer,
+3,13,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_13/aula,,Fazer,
+3,13,Vídeo,Professor,Conheça Petra,https://brino.cc/EFAI/3_13/petra,https://www.youtube.com/watch?v=nM7LuO1vsqg,Fazer,
+4,13,Video interno,Professor,Resumo da aula 13,https://brino.cc/EFAI/4_13/aula,,Fazer,
+4,13,Projeto com Edison,Aluno,Montagem do Edison Alarme (garra e detector),https://brino.cc/EFAI/4_13/alarme,,,
+5,13,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/5_13/aula ,,Fazer,Gravar
+5,13,Link,Professor,Músicas da sonda Voyager,https://brino.cc/EFAI/5_13/mus,https://science.nasa.gov/mission/voyager/golden-record-contents/sounds/,Feito,
+5,13,Link,Aluno,Musical Canvas (google arts and culture),https://brino.cc/EFAI/5_13/music,https://artsandculture.google.com/experiment/musical-canvas/6AF2kMdrQhI4tQ?hl=en,Feito,
+1,14,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_14/aula,,Fazer,Gravar
+1,14,Brastoy e Edison,Aluno,Manual trem,https://brino.cc/EFAI/1_14/trem,,Fazer,
+2,14,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_14/aula,,Fazer,
+2,14,Animação Brastoy,Professor,Projeto da parafusadeira com Brastoy,https://brino.cc/EFAI/2_14/montar ,,Fazer,
+3,14,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_14/aula,,Fazer,
+3,14,Link,Aluno,Jogo da colheita com makey Makey,https://brino.cc/EFAI/3_14/colheita,https://apps.makeymakey.com/v2/#fruit%20catcher,Fazer,
+4,14,Video interno,Professor,Resumo da aula 14,https://brino.cc/EFAI/4_14/aula,,Fazer,
+4,14,Animação Brastoy,Aluno,Montagem da escavadeira,https://brino.cc/EFAI/4_14/esc,,Fazer,
+4,14,Animação Brastoy,Aluno,Montagem do Edison esgrima,https://brino.cc/EFAI/4_14/esgrima,,,
+5,14,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/5_14/aula  ,,Fazer,Gravar
+5,14,Animação Brastoy,Aluno,Montagem da empilhadeira,https://brino.cc/EFAI/5_14/mont,,Fazer,
+5,14,Link,Aluno,Padlet diário aulas de robótica (Diário do Capitão),https://brino.cc/EFAI/5_14/diario,,Fazer,
+1,15,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/1_15/aula,,Fazer,Gravar
+1,15,Material para ser impresso,Professor,Quiver do Quadriciclo,https://brino.cc/EFAI/1_15/quadri,,Fazer,
+2,15,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/2_15/aula,,Fazer,
+2,15,Animação Brastoy,Aluno,Manual Brastoy máquina de enrolar mangueiras,https://brino.cc/EFAI/2_15/maq,,Fazer,
+3,15,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/3_15/aula,,Fazer,
+3,15,Link,Professor,Como jogar Puluc,https://brino.cc/EFAI/3_15/puluc,https://youtu.be/gw3NiP0NurA?feature=shared,Fazer,
+3,15,Link,Aluno,Jogo Mayan Escape Room,https://brino.cc/EFAI/3_15/maia,,Fazer,
+4,15,Video interno,Professor,Resumo da aula 15,https://brino.cc/EFAI/4_15/aula,,Fazer,
+4,15,Material para ser impresso,Professor,Folha com partes de barco para o leilão,https://brino.cc/EFAI/4_15/leilao,,Fazer,
+5,15,Video interno,Professor,Resumo da aula ,https://brino.cc/EFAI/5_15/aula ,,Fazer,Gravar
+5,15,Link,Professor,O que é IA,https://brino.cc/EFAI/5_15/ia,,Fazer,
+5,15,Link,Aluno,Animated Drawing,https://brino.cc/EFAI/5_15/ani,https://sketch.metademolab.com/canvas,Feito,
+5,15,Link,Aluno,"Quick Draw (Rápido, desenhe)",https://brino.cc/EFAI/5_15/draw,https://quickdraw.withgoogle.com/,Feito,
+5,15,Link,Aluno,Teachable Machine,https://brino.cc/EFAI/5_15/machine ,https://teachablemachine.withgoogle.com/train/image,Feito,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,
+,,,Selecionar,,,,Selecionar,

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artigos - Br.ino</title>
+    <link rel="shortcut icon" href="img/Icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
+    <header>
+        <div>
+            <a href="index.html">
+                <img src="img/logo.png" class="logo" alt="Logo da Br.ino">
+            </a>
+        </div>
+        <nav>
+            <ul>
+                <li><a class="nav" href="./loja.html">Loja</a></li>
+                <li><a class="nav" href="./escolas.html">Escolas</a></li>
+                <li><a class="nav" href="./alunos.html">Alunos</a></li>
+                <li><a class="nav" href="./governo.html">Governo</a></li>
+                <li><a class="nav" href="./sobreNos.html">Sobre nós</a></li>
+                <li><a class="nav" href="./nossosSites.html">Nossos Sites</a></li>
+                <li><a class="nav" href="./medium.html">Artigos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Título da página (mesmo estilo da sua página de alunos) -->
+        <section class="page-title-section">
+            <div class="section-title">
+                <h3>ARTIGOS NO MEDIUM</h3>
+                <h5>Conteúdos, ideias e aprendizados da Br.ino</h5>
+            </div>
+            <p class="section-subtitle">
+                Aqui você encontra os artigos mais recentes publicados no nosso perfil do Medium.
+                Todos os textos são focados em tecnologia, educação, robótica e inovação —
+                sempre com uma linguagem simples e prática.
+            </p>
+            <hr>
+        </section>
+
+        <!-- Seção principal com os artigos (usando info-section / aside / article) -->
+        <section class="info-section medium-articles">
+            <aside>
+                <h2><span class="highlight">Últimos Artigos</span></h2>
+                <p class="section-subtitle">
+                    Esses são os conteúdos mais recentes publicados. Clique para ler diretamente no Medium
+                    e aproveite para seguir nosso perfil por lá.
+                </p>
+                <a href="https://medium.com/@@murilooliveira10789" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+                    Ver perfil no Medium
+                </a>
+            </aside>
+
+            <!-- Lista de artigos vinda do JavaScript -->
+            <article>
+                <div id="medium-posts" class="article-list">
+                    <p class="section-subtitle">Carregando artigos...</p>
+                </div>
+            </article>
+        </section>
+    </main>
+
+    <!-- Botão flutuante -->
+    <button id="openModalBtn" class="floating-btn openModalTrigger" aria-label="Abrir menu de ajuda">
+      <i class="fas fa-phone"></i>
+    </button>
+  
+    <!-- Modal de Ajuda -->
+    <div id="helpModal" class="modal" aria-hidden="true">
+      <div class="modal-content">
+        <span id="closeHelpModalBtn" class="close">&times;</span>
+        <h2>Em que posso te ajudar?</h2>
+  
+        <div class="help-tabs">
+          <button class="help-tab-btn active" onclick="switchTab('contact')">
+            <i class="fas fa-phone"></i> Contato
+          </button>
+          <button class="help-tab-btn" onclick="switchTab('info')">
+            <i class="fas fa-info-circle"></i> Informações
+          </button>
+        </div>
+  
+        <div id="contact-tab" class="help-tab-content active">
+          <div class="help-options">
+            <button class="help-option" onclick="openContactForm()">
+              <i class="fas fa-comment"></i>
+              <span>Enviar Mensagem</span>
+            </button>
+            <button class="help-option" onclick="openWhatsApp()">
+              <i class="fab fa-whatsapp"></i>
+              <span>WhatsApp</span>
+            </button>
+            <button class="help-option" onclick="openPhone()">
+              <i class="fas fa-phone-alt"></i>
+              <span>Ligar</span>
+            </button>
+            <button class="help-option" onclick="openEmail()">
+              <i class="fas fa-envelope"></i>
+              <span>Email</span>
+            </button>
+          </div>
+        </div>
+  
+        <div id="info-tab" class="help-tab-content">
+          <div class="accordion">
+            <div class="accordion-item">
+              <button class="accordion-header" onclick="toggleAccordion(this)">
+                <span>Qual é o objetivo da Br.ino?</span>
+                <i class="fas fa-chevron-down"></i>
+              </button>
+              <div class="accordion-body">
+                <p>A Br.ino é uma startup dedicada a transformar o aprendizado em robótica e tecnologia em uma aventura acessível para todos.</p>
+              </div>
+            </div>
+  
+            <div class="accordion-item">
+              <button class="accordion-header" onclick="toggleAccordion(this)">
+                <span>Como posso acessar os artigos?</span>
+                <i class="fas fa-chevron-down"></i>
+              </button>
+              <div class="accordion-body">
+                <p>Os artigos são carregados diretamente do nosso perfil no Medium. Clique no título do artigo para abrir no Medium.</p>
+              </div>
+            </div>
+            <!-- copie mais itens se necessário -->
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <!-- Modal de Formulário -->
+    <div id="contactModal" class="modal" aria-hidden="true">
+      <div class="modal-content">
+        <span id="closeModalBtn" class="close">&times;</span>
+        <h2>Envie sua mensagem</h2>
+        <form id="formContato" action="/contato" method="POST">
+          <input type="text" name="nomeCompleto" placeholder="Nome completo" class="form-input" required>
+          <input type="email" name="email" placeholder="Email" class="form-input" required>
+          <input type="tel" name="telefone" placeholder="Telefone / WhatsApp" class="form-input" required>
+          <textarea name="mensagem" rows="4" placeholder="Digite sua mensagem" class="form-textarea" required></textarea>
+          <button type="submit" class="form-submit-btn">Enviar</button>
+        </form>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js/script.js"></script>
+
+    <!-- Script específico para carregar os artigos do Medium -->
+    <script>
+        // Troca pelo seu usuário do Medium (ex: @murilorodrigues)
+        const mediumUser = "@@brino-robotica";
+        const feedUrl = "https://medium.com/feed/" + mediumUser;
+
+        // Usando AllOrigins para evitar problemas de CORS
+        const proxyUrl = "https://api.allorigins.win/get?url=" + encodeURIComponent(feedUrl);
+
+        fetch(proxyUrl)
+            .then(response => {
+                if (!response.ok) throw new Error("Erro ao acessar o proxy");
+                return response.json();
+            })
+            .then(data => {
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(data.contents, "text/xml");
+                const items = xml.querySelectorAll("item");
+                const container = document.getElementById("medium-posts");
+
+                // Título interno da lista (estilo alinhado com a página)
+                container.innerHTML = "";
+
+                const maxPosts = 5;
+                let count = 0;
+
+                items.forEach(item => {
+                    if (count >= maxPosts) return;
+
+                    const title = item.querySelector("title").textContent;
+                    const link = item.querySelector("link").textContent;
+                    const pubDate = new Date(item.querySelector("pubDate").textContent);
+                    const pubDateStr = pubDate.toLocaleDateString("pt-BR");
+
+                    // Extrair imagem da tag <content:encoded>
+                    let content = item.getElementsByTagName("content:encoded")[0]?.textContent || "";
+                    let imgSrc = "";
+
+                    // Pega a primeira imagem do conteúdo
+                    const imgMatch = content.match(/<img[^>]+src="([^">]+)"/);
+                    if (imgMatch && imgMatch[1]) {
+                    imgSrc = imgMatch[1];
+                     }
+
+    const div = document.createElement("div");
+    div.className = "article-item";
+
+    div.innerHTML = `
+        ${imgSrc ? `<img src="${imgSrc}" class="post-img" alt="Imagem do artigo">` : ""}
+        <h3 class="article-title">
+            <a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>
+        </h3>
+        <p class="article-meta">Publicado em ${pubDateStr}</p>
+        <a href="${link}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+            Ler artigo
+        </a>
+        <hr>
+    `;
+
+    container.appendChild(div);
+    count++;
+});
+
+
+                if (count === 0) {
+                    container.innerHTML = '<p class="section-subtitle">Nenhum artigo encontrado no momento.</p>';
+                }
+            })
+            .catch(err => {
+                const container = document.getElementById("medium-posts");
+                container.innerHTML = `
+                    <p class="section-subtitle">
+                        Não foi possível carregar os artigos agora. Tente novamente mais tarde.
+                    </p>
+                `;
+                console.error(err);
+            });
+    </script>
+</body>
+</html>
+
+
+
+<footer>
+        <div class="footer-content">
+            <img src="img/imgF.png" class="logo" alt="Logo da Br.ino em rodapé">
+            <p>Copyright © 2025 Br.ino. Todos os Direitos Reservados.</p>
+        </div>
+    </footer>
